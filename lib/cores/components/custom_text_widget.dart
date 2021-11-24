@@ -6,7 +6,7 @@ import '../../cores/constants/font_size.dart';
 
 Widget textWidget(
   String text, {
-  double? size = kfsMeduim,
+  double? size = kfsMedium,
   Color? color = kcTextColor,
   FontWeight? fontWeight = FontWeight.w400,
   TextAlign? align = TextAlign.justify,
