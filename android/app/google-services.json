@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "116540149759",
+    "project_id": "book-keeping-610f1",
+    "storage_bucket": "book-keeping-610f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116540149759:android:5fb868382fb64d573ce1ca",
+        "android_client_info": {
+          "package_name": "com.example.book_keeping_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116540149759-vqe30pr3s1r0qve5cfepm6vgt5s18v50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY8b-TdP5FKJG7McFmRFLDze_hrtWopHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116540149759-vqe30pr3s1r0qve5cfepm6vgt5s18v50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
